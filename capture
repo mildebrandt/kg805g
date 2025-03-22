@@ -1,0 +1,52 @@
+#!/bin/bash
+export LIBVIRT_DEFAULT_URI=qemu:///system 
+usb_vendor=10c4
+virt_guest_name=win10
+
+if [ -z "$1" ]; then
+  filename=`date +%s`
+else
+  filename=`date +%s`_$1
+fi
+
+devstr=$(lsusb -d $usb_vendor: | tr -d ":")
+words=( $devstr )
+bus=$(expr ${words[1]} + 0)
+dev=$(expr ${words[3]} + 0)
+
+echo "Starting capture on USB$bus, device $dev"
+tshark -i usbmon$bus -w ${filename}.pcap &
+tshark_pid=$!
+
+echo "Beginning read from radio"
+virsh send-key $virt_guest_name KEY_LEFTALT KEY_P
+virsh send-key $virt_guest_name KEY_R
+
+size="0"
+while true
+do
+  sleep 0.2
+  newsize="$(wc -c < "${filename}.pcap")"
+  # If the file stops growing, then we've completed the read and 
+  # should stop the capture. 
+  if [ "$newsize" -eq "$size" ];then
+    break
+  fi
+  size=$newsize
+done
+
+virsh send-key $virt_guest_name KEY_ENTER
+kill -SIGINT $tshark_pid
+
+echo "Generating trace"
+tshark -r ${filename}.pcap -Y usb.device_address==$dev -w ${filename}.capdev
+tshark -r ${filename}.capdev -Tfields -e "_ws.col.Source" -e "_ws.col.Info" -e "usb.capdata" > ${filename}.tsv
+./tidy < ${filename}.tsv > ${filename}.radiotrace
+
+# Remove intermediate files
+rm -f ${filename}.pcap
+rm -f ${filename}.capdev
+rm -f ${filename}.tsv
+
+echo "Capture complete"
+

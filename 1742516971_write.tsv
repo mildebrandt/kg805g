@@ -1,0 +1,2908 @@
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_BULK out	4869574f5558554e02
+1.4.1	URB_BULK out	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	02
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+1.4.1	URB_BULK in	4b
+host	URB_BULK in	
+1.4.1	URB_BULK in	47
+host	URB_BULK in	
+1.4.1	URB_BULK in	36
+host	URB_BULK in	
+1.4.1	URB_BULK in	36
+host	URB_BULK in	
+1.4.1	URB_BULK in	39
+host	URB_BULK in	
+1.4.1	URB_BULK in	56
+host	URB_BULK in	
+1.4.1	URB_BULK in	f8
+host	URB_BULK in	
+host	URB_BULK out	06
+1.4.1	URB_BULK out	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	52097040
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	57
+host	URB_BULK in	
+1.4.1	URB_BULK in	09
+host	URB_BULK in	
+1.4.1	URB_BULK in	70
+host	URB_BULK in	
+1.4.1	URB_BULK in	40
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	17
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	17
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	17
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	7b
+host	URB_BULK in	
+1.4.1	URB_BULK in	17
+host	URB_BULK in	
+1.4.1	URB_BULK in	ab
+host	URB_BULK in	
+1.4.1	URB_BULK in	a7
+host	URB_BULK in	
+1.4.1	URB_BULK in	73
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	72
+host	URB_BULK in	
+1.4.1	URB_BULK in	a7
+host	URB_BULK in	
+1.4.1	URB_BULK in	7a
+host	URB_BULK in	
+1.4.1	URB_BULK in	70
+host	URB_BULK in	
+1.4.1	URB_BULK in	70
+host	URB_BULK in	
+1.4.1	URB_BULK in	7a
+host	URB_BULK in	
+1.4.1	URB_BULK in	7a
+host	URB_BULK in	
+1.4.1	URB_BULK in	70
+host	URB_BULK in	
+1.4.1	URB_BULK in	7f
+host	URB_BULK in	
+1.4.1	URB_BULK in	19
+host	URB_BULK in	
+1.4.1	URB_BULK in	70
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	ff
+host	URB_BULK in	
+1.4.1	URB_BULK in	a2
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	77
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	a2
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	17
+host	URB_BULK in	
+1.4.1	URB_BULK in	c8
+host	URB_BULK in	
+1.4.1	URB_BULK in	a2
+host	URB_BULK in	
+1.4.1	URB_BULK in	77
+host	URB_BULK in	
+1.4.1	URB_BULK in	b7
+host	URB_BULK in	
+1.4.1	URB_BULK in	7e
+host	URB_BULK in	
+host	URB_BULK out	06
+1.4.1	URB_BULK out	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57001010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5062254650622546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57002010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5087254650872546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57003010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5012264650122646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57004010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5037264650372646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57005010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5062264650622646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57006010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5087264650872646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57007010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5012274650122746ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57008010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5062754650627546ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_BULK out	57009010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5087754650877546ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700a010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	5012764650127646ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5037764650377646ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5062764650627646ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5087764650877646ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	5012774650127746ffffffff95cfffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5700f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0050254600502546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57010010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0075254600752546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57011010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0000264600002646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57012010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0025264600252646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57013010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0050264600502646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57014010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0075264600752646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57015010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0000274600002746ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57016010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0025274600252746ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57017010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0050254600507546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57018010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0075254600757546ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57019010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0000264600007646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0025264600257646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0050264600507646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0075264600757646ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0000274600007746ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701e010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	0025274600257746ffffffff95ffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5701f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57020010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57021010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57022010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57023010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57024010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57025010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57026010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57027010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57028010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57029010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5702f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_BULK out	57030010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57031010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57032010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57033010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57034010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57035010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57036010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57037010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57038010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57039010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5703f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57040010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57041010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57042010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57043010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57044010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57045010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57046010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57047010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57048010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57049010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5704a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	5704b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5704c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5704d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5704e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_BULK out	5704f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57050010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57051010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57052010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57053010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57054010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57055010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57056010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57057010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57058010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57059010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5705f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57060010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57061010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_CONTROL in	
+host	URB_BULK in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57062010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57063010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57064010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57065010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57066010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57067010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57068010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57069010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5706f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57070010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57071010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57072010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57073010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57074010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57075010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57076010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57077010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57078010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57079010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707a010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707d010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5707f010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57080010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57101010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110001ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57102010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	0c110002ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57103010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110003ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57104010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110004ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57105010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110005ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57106010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110006ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57107010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110007ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57108010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110008ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57109010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110009ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5710a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110100ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5710b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110101ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	5710c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110102ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5710d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110103ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5710e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110104ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5710f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110105ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57110010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110106ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57111010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110107ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57112010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110108ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57113010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110109ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57114010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110200ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57115010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110201ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57116010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0c110202ffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57117010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0105ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57118010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0106ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57119010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0107ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0108ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0109ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0200ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0201ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	1b191d0202ffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5711f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57120010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57121010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57122010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57123010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57124010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57125010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57126010
+host	URB_CONTROL in	
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57127010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57128010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57129010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5712f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57130010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57131010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57132010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57133010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57134010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57135010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57136010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57137010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57138010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57139010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5713a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5713b010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5713c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5713d010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	5713e010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5713f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57140010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+host	URB_BULK out	57141010
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57142010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+1.4.0	URB_CONTROL in	
+host	URB_BULK in	
+host	URB_BULK out	57143010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57144010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_CONTROL in	
+host	URB_BULK in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57145010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57146010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57147010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57148010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57149010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5714a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5714b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+host	URB_BULK out	5714c010
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+host	URB_BULK out	5714d010
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5714e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5714f010
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57150010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57151010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57152010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57153010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57154010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57155010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57156010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57157010
+host	URB_CONTROL in	
+1.4.1	URB_BULK out	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57158010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	57159010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_BULK out	5715a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5715b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5715c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5715d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5715e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5715f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57160010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57161010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57162010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57163010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57164010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57165010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57166010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57167010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57168010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57169010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5716f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57170010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57171010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57172010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57173010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57174010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57175010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57176010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57177010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57178010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57179010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717a010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717b010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717c010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717d010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717e010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	5717f010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57180010
+1.4.1	URB_BULK out	
+host	URB_BULK out	ffffffffffffffffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57081010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0025004000250040ffffffff04f8ffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57082010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0025004000250040ffffffff04f8ffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	570e2010
+1.4.1	URB_BULK out	
+host	URB_BULK out	06030501010003000100010a02010000
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	570e3010
+1.4.1	URB_BULK out	
+host	URB_BULK out	03030003000105020001000301010302
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	570e4010
+1.4.1	URB_BULK out	
+host	URB_BULK out	00000500001301000000000000000000
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	570e5010
+1.4.1	URB_BULK out	
+host	URB_BULK out	0000000000000d010001010001800001
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57181010
+1.4.1	URB_BULK out	
+host	URB_BULK out	00000006000000ffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_BULK out	57182010
+1.4.1	URB_BULK out	
+host	URB_BULK out	00000006000000ffffffffffffffffff
+1.4.1	URB_BULK out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+1.4.1	URB_BULK in	06
+host	URB_BULK in	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	
+host	URB_CONTROL in	
+1.4.0	URB_CONTROL in	
+host	URB_CONTROL out	
+1.4.0	URB_CONTROL out	

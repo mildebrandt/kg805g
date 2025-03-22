@@ -1,0 +1,17 @@
+#!/bin/bash
+
+for file in *read*.radiotrace; do
+    if [ -z "$previous_file" ]; then
+        previous_file=$file
+        continue
+    fi
+
+    label=${file#*_read_}
+    label=${label%.radiotrace}
+    echo $label
+    # echo "git diff --color-words=. <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file)"
+    git diff --color-words=. <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file) | tail -n +4
+    previous_file=$file
+    echo
+    echo
+done
