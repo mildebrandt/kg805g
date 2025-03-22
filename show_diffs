@@ -9,8 +9,12 @@ for file in *read*.radiotrace; do
     label=${file#*_read_}
     label=${label%.radiotrace}
     echo $label
-    # echo "git diff --color-words=. <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file)"
+    # Character diff
     git diff --color-words=. <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file) | tail -n +4
+
+    # Line diff
+    # git diff <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file) | tail -n +4
+
     previous_file=$file
     echo
     echo

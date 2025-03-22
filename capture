@@ -19,6 +19,7 @@ tshark -i usbmon$bus -w ${filename}.pcap &
 tshark_pid=$!
 
 echo "Beginning read from radio"
+# Send <alt>-P, R to the radio software to start the read
 virsh send-key $virt_guest_name KEY_LEFTALT KEY_P
 virsh send-key $virt_guest_name KEY_R
 
@@ -27,14 +28,14 @@ while true
 do
   sleep 0.2
   newsize="$(wc -c < "${filename}.pcap")"
-  # If the file stops growing, then we've completed the read and 
-  # should stop the capture. 
+  # If the pcap file stops growing, then we've completed the read and should stop the capture. 
   if [ "$newsize" -eq "$size" ];then
     break
   fi
   size=$newsize
 done
 
+# Send <enter> to the radio software to close the modal dialog indicating a successful read
 virsh send-key $virt_guest_name KEY_ENTER
 kill -SIGINT $tshark_pid
 
