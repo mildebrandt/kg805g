@@ -8,9 +8,16 @@ for file in *read*.radiotrace; do
 
     label=${file#*_read_}
     label=${label%.radiotrace}
+
+    if [ "$label" == "initial" ];then
+        previous_file=$file
+        continue
+    fi
     echo $label
 
-    # The diffs ignore the lines above the '>52001040' string since it may come in at a different order each time.
+    # The diffs ignore the lines above the '>52001040' string since it may come in at a different
+    # order each time. The first three lines of the diff are removed which just prints out the
+    # file names and other info that isn't needed.
 
     # Character diff
     git diff --color-words=. <(sed -n '/>52001040/,$p' $previous_file) <(sed -n '/>52001040/,$p' $file) | tail -n +4
